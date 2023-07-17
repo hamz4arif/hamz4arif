@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @hamz4arif
+-    I’m Angular developer
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
